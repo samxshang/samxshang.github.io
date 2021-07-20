@@ -36,8 +36,8 @@ foo:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Resources"
+        url: /docs/resources/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
