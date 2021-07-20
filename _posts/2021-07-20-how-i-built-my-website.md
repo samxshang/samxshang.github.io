@@ -16,4 +16,6 @@ The website is hosted by [GitHub Pages](https://pages.github.com/), and is power
 
 First, I created a GitHub Pages repository to host my website: `USERNAME.github.io`
 
-Second, I found the free website theme on [Jekyll Themes](https://jekyllthemes.io/)
+Second, I found the free website theme on [Jekyll Themes](https://jekyllthemes.io/).
+
+Third, I downloaded the theme files, and uploaded the files to my repository. Then I published my site. 
