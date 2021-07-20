@@ -8,7 +8,7 @@ main:
   - title: "Journey"
     url: /journey/
   - title: "Resources"
-    url: /docs/resources/
+    url: /resources/
 
 
 # could also use full url
