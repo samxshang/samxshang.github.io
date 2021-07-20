@@ -11,6 +11,8 @@ tags:
 Exchange student, Fall 2015
 - East China Normal University, Shanghai, China
 
+<br>
+
 Undergraduate Researcher, Fall 2015
 - East China Normal University, Advisor: Dr. Wenhua Yan
 
