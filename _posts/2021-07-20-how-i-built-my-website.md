@@ -18,4 +18,4 @@ First, I created a GitHub Pages repository to host my website: `USERNAME.github.
 
 Second, I found the free website theme on [Jekyll Themes](https://jekyllthemes.io/).
 
-Third, I downloaded the theme files, and uploaded the files to my repository. Then I published my site. 
+Third, I downloaded the theme files, and uploaded the files to my repository. Then I published my site. Voila! I got a website up and running!
