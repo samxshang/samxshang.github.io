@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: page
 ---
 
 Hi visitor! Welcome to my website. This website is currently under construction.
