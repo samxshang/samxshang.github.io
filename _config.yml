@@ -89,7 +89,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samxshang"
 
-
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:path/
+    
 
 # Defaults
 defaults:
