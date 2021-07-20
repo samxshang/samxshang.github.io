@@ -106,6 +106,8 @@ Wrap several paragraphs or other elements in a notice:
   {{ notice-2 | markdownify }}
 {% endraw %}</div>
 ```
+## Update the website
+Commit and push changes to the GitHub repository.
 
 ## Learning
 1. [Docs-start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
