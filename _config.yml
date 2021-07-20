@@ -118,6 +118,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      #sidebar:
+        #nav: "docs"
 
 
 category_archive:

@@ -33,9 +33,9 @@ foo:
         url: /child-3-page-url/
         
 
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+# sidebar navigation
+resources:
+  - title: "R"
     children:
       - title: "Child Page A1"
         url: /
@@ -45,7 +45,7 @@ sidebar-sample:
         url: /
       - title: "Child Page A4"
         url: /
-  - title: "Parent Page B"
+  - title: "Web building"
     children:
       - title: "Child Page B1"
         url: /

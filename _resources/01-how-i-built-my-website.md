@@ -1,7 +1,7 @@
 ---
 title: "How I built my website"
 categories:
-  - blog
+  - resource
 tags:
   - website
   - skill
