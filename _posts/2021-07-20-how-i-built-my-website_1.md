@@ -22,7 +22,7 @@ Third, I downloaded the theme files, and uploaded the files to my repository. Th
 ## Configuration and settings
 Then, I made changes to the settings and personalized my site.
 
-[X] _config.yml
-[X] navigation.yml
+1. _config.yml
+2. navigation.yml
 
 ## Learning
