@@ -9,7 +9,7 @@ tags:
   - skill
 ---
 
-# Ver. 0.1 The website was born
+# ver. 0.1 The website was born
 After using Wordpress for a year, I have decided to host my personal website on GitHub!
 
 ## Initiated the website
@@ -31,7 +31,7 @@ Then, I made changes to the settings and personalized my site.
 Front Matter settings:
 ```yaml
 ---
-title: "The new website is born"
+title: "Title of the post"
 date: 2021-07-19T22:00:02-04:00
 last_modified_at: 2021-07-20T16:00:02-04:00
 excerpt_separator: "<!--more-->"
@@ -55,12 +55,19 @@ link: https://duckduckgo.com/
 ```
 
 Handy functions:
+```yaml
+> Quote something.
+  
+> <cite><a href="https://duckduckgo.com/">Link to the site</a></cite>
+```
 
 > Quote something.
   
 > <cite><a href="https://duckduckgo.com/">Link to the site</a></cite>
 
-Kramdown `{: .notice}` : can be added after a sentence
+
+Kramdown `{: .notice}` : can be added after a sentence as a new line
+
 **Light Grey Notice:** `{: .notice}`
 {: .notice}
 
