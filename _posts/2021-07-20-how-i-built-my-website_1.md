@@ -26,5 +26,5 @@ Then, I made changes to the settings and personalized my site.
 [X] navigation.yml
 
 ## Learning 
-[ ] https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-[ ] https://mmistakes.github.io/minimal-mistakes/docs/pages/
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+https://mmistakes.github.io/minimal-mistakes/docs/pages/
