@@ -67,7 +67,7 @@ author:
   location: "NC, USA"
   links:
     - label: "Email"
-      icon: "far fa-fw fa-envelope" # https://fontawesome.com/v5.15/icons?d=gallery&p=2
+      icon: "fas fa-fw fa-envelope-square" # https://fontawesome.com/v5.15/icons?d=gallery&p=2
       url: "mailto:shang.x@queensu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -80,7 +80,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "far fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:shang.x@queensu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
