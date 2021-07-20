@@ -33,7 +33,7 @@ foo:
         url: /child-3-page-url/
         
 # documentation links
-resources:
+resources1:
   - title: Getting Started
     children:
       - title: "Resources"
