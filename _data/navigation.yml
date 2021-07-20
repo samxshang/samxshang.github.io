@@ -7,8 +7,9 @@ main:
     url: /teaching/
   - title: "Journey"
     url: /journey/
-  - title: "CV"
-    url: /cv/
+  - title: "Resources"
+    url: /docs/resources/
+
 
 # could also use full url
 
