@@ -44,8 +44,8 @@ resources:
       - title: "How I built my website"
         url: /resources/my-website/
       - title: "TEST LINK2"
-        url: /https://duckduckgo.com/
+        url: https://duckduckgo.com/
   - title: "Academic life"
     children:
       - title: "TEST LINK3"
-        url: /https://duckduckgo.com/
+        url: https://duckduckgo.com/
