@@ -1,8 +1,8 @@
 ---
 title: "Resources"
-permalink: /docs/resources/
+permalink: /resources/resources/
 excerpt: "Sharing resources"
 last_modified_at: 2021-07-20T11:48:05-04:00
 ---
 
-testing
+test resource 1

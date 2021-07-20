@@ -91,7 +91,7 @@ footer:
 
 # Collections
 collections:
-  docs:
+  resources:
     output: true
     permalink: /:collection/:path/
 
