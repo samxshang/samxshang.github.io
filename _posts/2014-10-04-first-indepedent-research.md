@@ -7,7 +7,7 @@ tags:
   - research
 ---
 
-Undergraduate Researcher, Fall 2014
+- Undergraduate Researcher, Fall 2014
 - Jilin University, Advisors: Drs. Lijuan Wang and Bo Liu
   - Examined the function of diary habits on emotion regulation among college students
   - Designed the survey, collected and analyzed data, wrote the paper, oral presentation in class
