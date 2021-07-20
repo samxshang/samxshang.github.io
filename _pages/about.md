@@ -1,6 +1,6 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 ---
 
 Hi visitor! Welcome to my website. This website is currently under construction.
