@@ -61,30 +61,29 @@ author:
   avatar : "/assets/images/sam.png"
   bio    : "Welcome to my website!"
   links:
-    - label: "Website"
+    - label: "Email"
       icon: "fas fa-fw fa-link"
-      url: "https://samxshang.github.io/"
+      url: "mailto:shang.x@queensu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/samxshang"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samxshang"
-    - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "shang.x@queensu.ca"
+
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-link"
+      url: "mailto:shang.x@queensu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/samxshang"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samxshang"
-    - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "shang.x@queensu.ca"
+
 
 defaults:
   # _posts
