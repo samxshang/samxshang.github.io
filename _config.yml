@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Samantha Shang
-subtitle: Ver. 0.1
+subtitle: ver. 0.1
 #logo: "/assets/images/88x88.png"
 
 email:
@@ -28,7 +28,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 # Outputting
 permalink: /:categories/:title/
