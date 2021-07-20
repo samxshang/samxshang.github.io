@@ -27,8 +27,8 @@ Third, I downloaded the theme files, and uploaded the files to my repository. Th
 ## Configuration and settings
 Then, I made changes to the settings and personalized my site.
 
-1. \_root\_config.yml
-2. \_data\navigation.yml
+1. \\_root\\_config.yml
+2. \\_data\\navigation.yml
 
 ## Content
 Add a new post: 
