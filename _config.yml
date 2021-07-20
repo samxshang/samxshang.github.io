@@ -89,11 +89,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/samxshang"
 
-# Collections
-collections:
-  resources:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -118,18 +114,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _resources
-  - scope:
-      path: ""
-      type: resources
-    values:
-      layout: single
-      read_time: true
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "resources"
 
 
 category_archive:

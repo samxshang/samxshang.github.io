@@ -32,12 +32,6 @@ foo:
       - title: "Child Link 3"
         url: /child-3-page-url/
         
-# documentation links
-resources1:
-  - title: Getting Started
-    children:
-      - title: "Resources"
-        url: /resources/resources/
 
 # sidebar navigation list sample
 sidebar-sample:
