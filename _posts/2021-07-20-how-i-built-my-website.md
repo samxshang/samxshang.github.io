@@ -1,5 +1,6 @@
 ---
 title: "How I built my website"
+date: 2021-07-20T03:00:02-05:00
 last_modified_at: 2021-07-20T03:00:02-05:00
 categories:
   - blog
