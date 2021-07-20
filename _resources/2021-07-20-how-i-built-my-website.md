@@ -46,15 +46,17 @@ categories:
    - resource
    - journey
 tags:
-   - website
-   - skill
    - stats
    - r
+   - website
+   - skill
    - academia
    - research
    - conference
    - paper
+   - education
    - job
+   - experience
 link: https://duckduckgo.com/
 ---
 

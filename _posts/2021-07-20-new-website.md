@@ -10,4 +10,4 @@ tags:
 
 After using Wordpress for a year, I have decided to host my personal website on GitHub!
 
-Check out how I built my website: https://samxshang.github.io/resources/my-website/
+Check out [how I built my website](https://samxshang.github.io/resources/my-website/).
