@@ -33,11 +33,11 @@ foo:
         url: /child-3-page-url/
         
 # documentation links
-docs:
+resources:
   - title: Getting Started
     children:
       - title: "Resources"
-        url: /docs/resources/
+        url: /resources/resources/
 
 # sidebar navigation list sample
 sidebar-sample:

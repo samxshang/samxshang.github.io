@@ -118,10 +118,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _resources
   - scope:
       path: ""
-      type: docs
+      type: resources
     values:
       layout: single
       read_time: true
@@ -129,7 +129,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
+        nav: "resources"
 
 
 category_archive:
