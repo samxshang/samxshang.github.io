@@ -15,6 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Samantha Shang
 subtitle: Ver. 0.1
+#logo: "/assets/images/88x88.png"
+
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is Samantha Shang's professional website. I post my research projects
@@ -29,10 +31,10 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
 # Outputting
-#permalink: /:categories/:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto
 
 include:
   - _pages
@@ -61,10 +63,11 @@ plugins:
 author:
   name   : "Samantha Shang"
   avatar : "/assets/images/sam.png"
-  bio    : "Welcome to my website!"
+  bio    : "Welcome to my website!" # Note: Markdown is allowed
+  location: "NC, USA"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-link"
+      icon: "far fa-envelope" # https://fontawesome.com/v5.15/icons?d=gallery&p=2
       url: "mailto:shang.x@queensu.ca"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -95,7 +98,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%Y-%b-%d"
       read_time: true
+      #words_per_minute: 250
       comments: false
       share: false
       related: false
