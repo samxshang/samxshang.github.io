@@ -3,8 +3,8 @@ title: "How I built my website"
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - website
+  - skill
 ---
 
 # Ver. 0.1 The website was born
@@ -26,3 +26,5 @@ Then, I made changes to the settings and personalized my site.
 2. navigation.yml
 
 ## Learning
+1. https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+2. https://mmistakes.github.io/minimal-mistakes/docs/pages/
