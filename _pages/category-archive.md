@@ -1,6 +1,6 @@
 ---
 title: "Blog"
 layout: categories
-permalink: /blog/
+permalink: /categories/
 author_profile: true
 ---
