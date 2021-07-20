@@ -1,6 +1,5 @@
 ---
 title: "How I built my website"
-date: 2021-07-20T00:04:00-00:00
 categories:
   - blog
 tags:
@@ -8,15 +7,22 @@ tags:
   - update
 ---
 
-# Ver. 0.1 The website was born
-After using Wordpress for a year, I have decided to host my personal website on GitHub!
+You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-## Initiated the website
-The website is hosted by [GitHub Pages](https://pages.github.com/), and is powered by [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-First, I created a GitHub Pages repository to host my website: USERNAME.github.io
+Jekyll also offers powerful support for code snippets:
 
-Second, I found the free website theme on [Jekyll Themes](https://jekyllthemes.io/)
+```ruby
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
 
-Third, I downloaded the theme files, and uploaded the files to my repository. Then I published my site. Voilà! I got a website up and running!
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyllâ€™s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
