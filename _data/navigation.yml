@@ -43,8 +43,6 @@ resources:
     children:
       - title: "How I built my website"
         url: /resources/my-website/
-      - title: "TEST LINK2"
-        url: https://samxshang.github.io/
   - title: "Academic life"
     children:
       - title: "TEST LINK3"
