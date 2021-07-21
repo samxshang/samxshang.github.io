@@ -3,9 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-# Graduate Teaching Assistant
+## Graduate Teaching Assistant
 
-## Undergraduate level courses at Wake Forest University:
+### Undergraduate level courses at Wake Forest University:
 
 - Research in Cognitive Psychology (PSY 331), Spring 2020
   - Instructor: Dr. Janine Jennings
