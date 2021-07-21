@@ -32,9 +32,11 @@ I'm most interested in the unreliable side of human nature:
 - How do we correct and update the information we learned?
 - How do biases and stereotypes affect intergroup interactions?
 
+- How do we effectively communicate science and persuade people to make decisions that are aligned with scientific facts?
+
 Other topics that I'm concerned with:
 - Cross-cultural comparison of perception and communication
 - Measurement invariance, increasing statistical power
-- 
+
 
 {% endcomment %}
