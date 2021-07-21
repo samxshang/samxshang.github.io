@@ -37,8 +37,10 @@ foo:
 resources:
   - title: "R and stats"
     children:
-      - title: "My methods and statistical training"
-        url: /resources/my-method-stats-training/
+      - title: "TEST LINK1"
+        url: https://samxshang.github.io/
+#      - title: "My methods and statistical training"
+ #       url: /resources/my-method-stats-training/
   - title: "Web building"
     children:
       - title: "How I built my website"
