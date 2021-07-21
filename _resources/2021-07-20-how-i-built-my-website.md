@@ -50,13 +50,18 @@ tags:
    - r
    - website
    - skill
+   - training
    - academia
+   - event
    - research
-   - conference
    - paper
+   - conference
+   - talk
+   - presentation
    - education
    - job
-   - experience
+   - service
+   - teaching
 link: https://duckduckgo.com/
 ---
 
