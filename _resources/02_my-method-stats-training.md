@@ -13,7 +13,7 @@ tags:
 I am constantly seeking to learn more about methods and stats. Below is a list of online courses I have taken and some books I find very helpful:
 
 - [R for Data Science](https://r4ds.had.co.nz/)
-- [SAS® Programming 1: Essentials](https://support.sas.com/edu/schedules.html?ctry=us&crs=PROG1)
+- [SAS Programming 1: Essentials](https://support.sas.com/edu/schedules.html?ctry=us&crs=PROG1)
 
 
 
