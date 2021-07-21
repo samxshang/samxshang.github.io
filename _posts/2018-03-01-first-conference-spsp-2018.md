@@ -14,9 +14,9 @@ This is my first time attending an academic conference. It's a little bit overwh
 - Date: March 1-3
 - Location: Atlanta, GA
 
-I am presenting a poster: *The Effect of Negative Gender Stereotype on Easy and Hard Switching Tasks*.
+I am presenting a poster: *The Effect of Negative Gender Stereotype on Easy and Hard Switching Tasks*
 
 <br>
 
-Reference: \n
+Reference: <br>
 **Shang, S.**, Kathmandu, A., McCandliss, B., & Cohen, G. L. (2018, March). *The Effect of Negative Gender Stereotype on Easy and Hard Switching Tasks*. Poster presented at the 19th annual convention of the Society for Personality and Social Psychology, Atlanta, GA.
