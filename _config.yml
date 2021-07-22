@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Samantha Shang
-subtitle: ver. 0.1
+subtitle: ver. 1.0
 #logo: "/assets/images/88x88.png"
 
 email:

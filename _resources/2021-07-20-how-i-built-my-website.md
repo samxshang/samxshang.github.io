@@ -7,9 +7,11 @@ categories:
 tags:
   - website
   - skill
+toc: true
 ---
 
 # ver. 0.1 The website was born
+2021-07-20
 
 ## Initiating the website
 The website is hosted by [GitHub Pages][github-pages], and is powered by [Jekyll][jekyll] & [Minimal Mistakes][minimal-mistakes].
@@ -122,3 +124,9 @@ Commit and push changes to the GitHub repository.
 1. [Docs-start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 2. [Docs-pages](https://mmistakes.github.io/minimal-mistakes/docs/pages/)
 3. [About-notable features](https://mmistakes.github.io/minimal-mistakes/about/#notable-features)
+
+
+# ver. 1.0 Published the first complete version
+2021-07-22
+
+Updated pages and posts.
