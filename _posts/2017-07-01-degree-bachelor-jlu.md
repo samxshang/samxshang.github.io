@@ -20,4 +20,4 @@ Undergraduate Researcher, Sep 2016 - May 2017
 - Research project: *Effects of the Confusion between Visual Imagery and Perception on False Memory*
   - Examined false memories induced by vivid and repeated visual imagery
   - Independently designed the research project; programmed experiments with E-prime; collected data; analyzed data using SPSS; wrote thesis (95/100)
-  - Funded by the College Students Innovation and Entrepreneurship Training Program Grant, CNY ???2,000
+  - Funded by the College Students Innovation and Entrepreneurship Training Program Grant, CNY 2,000
