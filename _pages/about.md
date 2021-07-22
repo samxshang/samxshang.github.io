@@ -11,7 +11,7 @@ I am a Social Cognitive Psychology researcher. I am an incoming PhD student at t
 I'm interested in cultural differences and similarities in perception, communication, and JDM. I am also enthusiastic about R, stats, and cross-cultural measurement.
 
 ## Personal
-In my free time, I enjoy turning off screens, getting fresh air, and getting inspired by great minds, so I run while listening to my favorite podcasts. I also love recording my dreams. I have kept a dream diary since 2012.
+In my free time, I enjoy turning off screens, getting fresh air, and getting inspired by great minds, so I run while listening to my favorite podcasts. I also love recording my dreams. I have been keeping a dream diary since 2012.
 
 My last name is the same as the Marvel superhero [*"Shang-Chi"*](https://www.youtube.com/watch?v=2KDEdWbYYE0), and I named myself "Samantha" after the AI from the movie [*Her*](https://www.imdb.com/video/vi1211672857?ref_=vi_nxt_ap).
 
