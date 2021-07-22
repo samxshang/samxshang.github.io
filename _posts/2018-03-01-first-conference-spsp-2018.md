@@ -1,6 +1,6 @@
 ---
 title: "Attending my first conference: SPSP 2018"
-last_modified_at: 2019-10-21T20:00:00-04:00
+last_modified_at: 2018-03-01T08:00:00-04:00
 categories:
   - journey
 tags:
