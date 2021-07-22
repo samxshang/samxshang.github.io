@@ -6,6 +6,7 @@ categories:
 tags:
   - conference
   - presentation
+  - first
 ---
 
 This is my first time attending an academic conference. It's a little bit overwhelming, but super exciting!

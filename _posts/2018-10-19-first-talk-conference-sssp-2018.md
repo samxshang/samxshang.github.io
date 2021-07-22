@@ -7,6 +7,7 @@ tags:
   - conference
   - talk
   - presentation
+  - first
 ---
 
 I am giving my first talk. Woah!

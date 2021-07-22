@@ -8,12 +8,13 @@ tags:
   - research
 ---
 
-Exchange student, Fall 2015
+Exchange Student in Applied Psychology, Fall 2015
 - East China Normal University, Shanghai, China
 
 <br>
 
-Undergraduate Researcher, Fall 2015
+Undergraduate Researcher, Fall 2015 (Sep 2015 - Jan 2016)
 - East China Normal University, Advisor: Dr. Wenhua Yan
-- Explored how young adults' romantic relationship influence their attachment styles
-- Used interview and semantic coding methods, designed and conducted interviews, wrote the paper, group poster presented in the department
+- Independent research of coursework: *The Influence of Romantic Relationship in Young Adulthood on Attachment Styles*
+  - Explored how young adults' romantic relationship influence their attachment styles
+  - Used interview and semantic coding methods, designed and conducted interviews, wrote the paper, group poster presented in the department
