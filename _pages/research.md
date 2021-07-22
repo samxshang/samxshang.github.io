@@ -10,10 +10,10 @@ research_gallery:
     image_path: /assets/images/spsp-2018-stereotype-task-switch.png
     alt: "Stereotype"
     title: "spsp-2018-stereotype-task-switch"
-  - url: /assets/images/spsp-2019_growth-mindset-in-china.png
-    image_path: /assets/images/spsp-2019_growth-mindset-in-china.png
+  - url: /assets/images/spsp-2019-growth-mindset-in-china.png
+    image_path: /assets/images/spsp-2019-growth-mindset-in-china.png
     alt: "Education"
-    title: "spsp-2019_growth-mindset-in-china"
+    title: "spsp-2019-growth-mindset-in-china"
   - url: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
     image_path: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
     alt: "Misinformation"
