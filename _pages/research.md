@@ -1,7 +1,12 @@
 ---
 title: "Research"
 permalink: /research/
-research_gallery:
+talk_gallery:
+  - url: /assets/images/sssp-2020-detect-bs.png
+    image_path: /assets/images/sssp-2020-detect-bs.png
+    alt: "Detecting BS"
+    title: "sssp-2020-detecting-bs"
+poster_gallery:
   - url: /assets/images/aps-2018-false-memory.png
     image_path: /assets/images/aps-2018-false-memory.png
     alt: "False Memory"
@@ -26,9 +31,14 @@ I'm currently researching cross-cultural judgment and decision making with [Dr. 
 
 <br>
 
-Select past research projects:
+Select talk presentations:
 
-{% include gallery id="research_gallery" layout="half" caption="Select poster presentations: `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
+{% include gallery id="talk_gallery" layout="half" caption="Select talk presentations: [`Misinformation`]()." %}
+
+
+Select poster presentations:
+
+{% include gallery id="poster_gallery" layout="half" caption="Select poster presentations: `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
 
 
 
