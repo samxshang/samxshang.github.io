@@ -5,15 +5,19 @@ research_gallery:
   - url: /assets/images/aps-2018-false-memory.png
     image_path: /assets/images/aps-2018-false-memory.png
     alt: "False Memory"
+    title: "aps-2018-false-memory"
   - url: /assets/images/spsp-2018-stereotype-task-switch.png
     image_path: /assets/images/spsp-2018-stereotype-task-switch.png
     alt: "Stereotype"
+    title: "spsp-2018-stereotype-task-switch"
   - url: /assets/images/spsp-2019_growth-mindset-in-china.png
     image_path: /assets/images/spsp-2019_growth-mindset-in-china.png
     alt: "Education"
+    title: "spsp-2019_growth-mindset-in-china"
   - url: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
     image_path: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
     alt: "Misinformation"
+    title: "spsp-2020-Bullshitting-fast-and-slow"
 ---
 
 I'm currently researching cross-cultural judgment and decision making with [Dr. Li-Jun Ji](https://www.queensu.ca/psychology/culture-and-cognition-lab/research-team) at Queen's University. Broadly, my research interests fall within the area of social cognitive psychology, including:
@@ -24,7 +28,7 @@ I'm currently researching cross-cultural judgment and decision making with [Dr. 
 
 Select past research projects:
 
-{% include gallery id="research_gallery" layout="full" caption="Select poster presentations `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
+{% include gallery id="research_gallery" layout="half" caption="Select poster presentations: `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
 
 
 
