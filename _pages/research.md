@@ -4,24 +4,24 @@ permalink: /research/
 talk_gallery:
   - url: /assets/images/sssp-2020-detect-bs.png
     image_path: /assets/images/sssp-2020-detect-bs.png
-    alt: "Detecting BS"
-    title: "sssp-2020-detecting-bs"
+    alt: "sssp-2020-detect-bs"
+    title: "sssp-2020-detect-bs"
 poster_gallery:
   - url: /assets/images/aps-2018-false-memory.png
     image_path: /assets/images/aps-2018-false-memory.png
-    alt: "False Memory"
+    alt: "aps-2018-false-memory"
     title: "aps-2018-false-memory"
   - url: /assets/images/spsp-2018-stereotype-task-switch.png
     image_path: /assets/images/spsp-2018-stereotype-task-switch.png
-    alt: "Stereotype"
+    alt: "spsp-2018-stereotype-task-switch"
     title: "spsp-2018-stereotype-task-switch"
   - url: /assets/images/spsp-2019-growth-mindset-in-china.png
     image_path: /assets/images/spsp-2019-growth-mindset-in-china.png
-    alt: "Education"
+    alt: "spsp-2019-growth-mindset-in-china"
     title: "spsp-2019-growth-mindset-in-china"
   - url: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
     image_path: /assets/images/spsp-2020-Bullshitting-fast-and-slow.png
-    alt: "Misinformation"
+    alt: "spsp-2020-Bullshitting-fast-and-slow"
     title: "spsp-2020-Bullshitting-fast-and-slow"
 ---
 
@@ -33,12 +33,12 @@ I'm currently researching cross-cultural judgment and decision making with [Dr. 
 
 Select talk presentations:
 
-{% include gallery id="talk_gallery" layout="half" caption="Select talk presentations: [`Misinformation`]()." %}
+{% include gallery id="talk_gallery" layout="half" caption="Select talk presentations: [`sssp-2020-detect-bs`](https://raw.githubusercontent.com/samxshang/samxshang.github.io/main/assets/storage/sssp-2020-detect-bs.pdf)." %}
 
 
 Select poster presentations:
 
-{% include gallery id="poster_gallery" layout="half" caption="Select poster presentations: `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
+{% include gallery id="poster_gallery" layout="half" caption="Select poster presentations: `aps-2018-false-memory`, `spsp-2018-stereotype-task-switch`, `spsp-2019-growth-mindset-in-china`, and `spsp-2020-Bullshitting-fast-and-slow`." %}
 
 
 
