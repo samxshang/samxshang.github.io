@@ -63,6 +63,7 @@ tags:
    - service
    - teaching
    - first
+   - lgbtq+
 link: https://duckduckgo.com/
 ---
 

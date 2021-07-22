@@ -5,7 +5,6 @@ categories:
   - blog
 tags:
   - website
-  - skill
 ---
 
 After using Wordpress for a year, I have decided to host my personal website on GitHub!
