@@ -17,14 +17,14 @@ research_gallery:
 ---
 
 I'm currently researching cross-cultural judgment and decision making with [Dr. Li-Jun Ji](https://www.queensu.ca/psychology/culture-and-cognition-lab/research-team) at Queen's University. Broadly, my research interests fall within the area of social cognitive psychology, including:
+1. Judgment and decision making, communication strategy, misinformation, and false memory
+2. Intergroup interaction, group identity and polarization, cross-cultural comparison of perception and communication, and the effects of stereotypes
 
-1) Judgment and decision making, communication strategy, misinformation, and false memory
-2) Intergroup interaction, group identity and polarization, cross-cultural comparison of perception and communication, and the effects of stereotypes
-
+<br>
 
 Select past research projects:
 
-{% include gallery id="research_gallery" layout="half" caption="Select poster presentations `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
+{% include gallery id="research_gallery" layout="full" caption="Select poster presentations `False Memory`, `Stereotype`, `Education`, and `Misinformation`." %}
 
 
 
