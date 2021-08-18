@@ -77,7 +77,7 @@ author:
       url: "https://github.com/samxshang"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/samshang/"
+      url: "https://www.linkedin.com/in/samxshang/"
 
 
 footer:
@@ -93,7 +93,7 @@ footer:
       url: "https://github.com/samxshang"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/samshang/"
+      url: "https://www.linkedin.com/in/samxshang/"
 
 collections:
   resources:
