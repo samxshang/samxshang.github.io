@@ -1,7 +1,7 @@
 ---
 title: "Blog"
+layout: collection
 permalink: /blog/
 collection: blog
-layout: collection
 author_profile: false
 ---
