@@ -1,7 +1,23 @@
 ---
 title: "Blog"
-layout: tags
+layout: collection
+collection: blog
 permalink: /blog/
-taxonomy: blog
-author_profile: false
+entries_layout: list
+sort_by: date
+sort_order: reverse
 ---
+
+
+
+
+
+
+
+
+
+{% comment %}
+
+See: https://mmistakes.github.io/minimal-mistakes/docs/layouts/
+
+{% endcomment %}
