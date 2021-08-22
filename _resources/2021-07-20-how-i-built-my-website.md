@@ -8,6 +8,7 @@ tags:
   - website
   - skill
 toc: true
+toc_sticky: true
 ---
 
 # ver. 0.1 The website was born
