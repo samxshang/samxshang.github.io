@@ -6,7 +6,7 @@ permalink: /blog/
 entries_layout: list
 sort_by: date
 sort_order: forward
-author_profile: false
+author_profile: true
 ---
 
 

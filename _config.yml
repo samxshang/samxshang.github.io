@@ -145,6 +145,9 @@ defaults:
       type: blog
     values:
       layout: single
+      read_time: true
+      show_date: true
+      date_format: "%Y-%b-%d"
       author_profile: false
       share: true
       comments: true
