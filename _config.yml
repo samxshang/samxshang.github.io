@@ -99,9 +99,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  blog:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -134,24 +132,14 @@ defaults:
     values:
       layout: single
       read_time: true
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "resources"
-  # _blog
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: single
-      read_time: true
       show_date: true
       date_format: "%Y-%b-%d"
       author_profile: false
       share: true
-      comments: true
-    
+      comments: false
+      sidebar:
+        nav: "resources"
+
 
 
 category_archive:
