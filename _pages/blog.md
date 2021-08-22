@@ -5,7 +5,8 @@ collection: blog
 permalink: /blog/
 entries_layout: list
 sort_by: date
-sort_order: reverse
+sort_order: forward
+author_profile: false
 ---
 
 
