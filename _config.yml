@@ -64,7 +64,7 @@ author:
   name   : "Samantha Shang"
   avatar : "/assets/images/sam.png"
   bio    : "Welcome to my website!" # Note: Markdown is allowed
-  location: "NC, USA"
+  location: "ON, Canada"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square" # https://fontawesome.com/v5.15/icons?d=gallery&p=2
