@@ -45,5 +45,5 @@ resources:
         url: /resources/my-website/
   - title: "Academic life"
     children:
-      - title: "TEST LINK3"
-        url: https://samxshang.github.io/
+      - title: "读博日记"
+        url: https://samsmerrygoround.github.io/
