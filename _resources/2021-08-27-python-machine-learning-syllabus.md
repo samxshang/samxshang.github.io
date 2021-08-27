@@ -82,10 +82,10 @@ We will be using Udemy as our learning materials:
   - 7: **Decision Tree Regression**; **Random Forest Regression** - 1 hr 36 min
     - Udemy: Section 10, 88-94; Section 11, 95-98
 - Week 08 (Oct 25 - Oct 29)
-  - 8: **Evaluating Regression Models Performance**; **Regression Model Selection in Python and R** - 1 hr 4 min
-    - Udemy: Section 12, 99-100; Section 13, 101-104; Section 14, 105-107
-  - 9: **Logistic Regression** - 2 hr 11 min
-    - Udemy: Section 15, 108; Section 16, 109-126
+  - 8: **Evaluating Regression Models Performance**; **Regression Model Selection in Python and R**; **Logistic Regression 1/2** - 1 hr 22 min
+    - Udemy: Section 12, 99-100; Section 13, 101-104; Section 14, 105-107; Section 15, 108; Section 16, 109
+  - 9: **Logistic Regression 2/2** - 1 hr 53 min
+    - Udemy: Section 16, 110-126
 	- Quiz 3: Logistic Regression
 - Week 09 (Nov 01 - Nov 05)
   - 10: **K-Nearest Neighbors (K-NN)**; **Support Vector Machine (SVM)** - 1 hr 18 min
@@ -102,16 +102,16 @@ We will be using Udemy as our learning materials:
   - 14: **K-Means Clustering 2/2**; **Hierarchical Clustering 1/2** - 1 hr 44 min
     - Udemy: Section 26, 170-176; Section 27, 177-179
 	- Quiz 5: K-Means Clustering
-  - 15: **Hierarchical Clustering 2/2**; **Apriori 1/2** - 2 hr 12 min
-    - Udemy: Section 27, 180-189; Section 28, 190; Section 29, 191-196
+  - 15: **Hierarchical Clustering 2/2**; **Apriori 1/2** - 1 hr 14 min
+    - Udemy: Section 27, 180-189; Section 28, 190; Section 29, 191
 	- Quiz 6: Hierarchical Clustering
 - Week 12 (Nov 22 - Nov 26)
-  - 16: **Apriori 2/2**; **Eclat** - 1 hr 22 min
-    - Udemy: Section 29, 197-199; Section 30, 200-203
-  - 17: **Upper Confidence Bound (UCB) 1/2** - 1 hr 33 min
-    - Udemy: Section 31, 204; Section 32, 205-214
+  - 16: **Apriori 2/2** - 1 hr 53 min
+    - Udemy: Section 29, 192-199
+  - 17: **Eclat**; **Upper Confidence Bound (UCB) 1/2** - 2 hr 03 min
+    - Udemy: Section 30, 200-203; Section 31, 204; Section 32, 205-214
 - Week 13 (Nov 29 - Dec 03)
-  - 18: **Upper Confidence Bound (UCB) 2/2**; **Thompson Sampling 1/2** - 1 hr 58 min
+  - 18: **Upper Confidence Bound (UCB) 2/2**; **Thompson Sampling 1/2** - 1 hr 59 min
     - Udemy: Section 32, 215-218; Section 33, 219-226
   - 19: **Thompson Sampling 2/2**; **Natural Language Processing 1/2** - 2 hr 5 min
     - Udemy: Section 33, 227-228; Section 34, 229-241
