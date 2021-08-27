@@ -22,7 +22,7 @@ We will be using Udemy as our learning materials:
     - [Coupon](https://www.best-course-online.com/reviews/udemy-machine-learning-a-z-hands-on-python-and-r-in-data-science-coupon/)
 
 # Tentative Course Schedule
-## Part 1: Python A-Z
+## Course 1: Python A-Z
 - Week 01 (Sep 06 - Sep 10)
   - 1: **Welcome To The Course**; **Core Programming Principles** - 1 hr 27 min
     - Udemy: Section 1, 1-6; Section 2, 7-16
@@ -58,14 +58,15 @@ We will be using Udemy as our learning materials:
 	- Topics: Facet grid, build dashboards, Homework 5 solution, bonus lectures
 	- Homework 5: Movie Domestic % Gross
 	- Quiz 5: Advanced Visualization
-## Part 2: Machine Learning A-Z
+## Course 2: Machine Learning A-Z
 - Week 04 (Sep 27 - Oct 01)
-  - 1: **Welcome to the course!**; - 1 hr XX min
-    - Udemy: Section 1, 1-14 
-	- Topics: XXX
-	- Homework X: XXX
-	- Quiz X: XX
-
+  - 1: **Welcome to the course!** - 42 min
+    - Udemy: Section 1, 1-14
+	- Topics: Intro, resources, data, code
+- Week 05 (Oct 04 - Oct 08)
+  - 2: **Part 1: Data Preprocessing** - 2 hr 17 min
+    - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
+	- Topics: Data preprocessing in Python and R
 
 
 
@@ -86,7 +87,7 @@ We will be using Udemy as our learning materials:
 
 
 
-- Week 05 (Oct 04 - Oct 08)
+
 
 - Week 06 (Oct 11 - Oct 15)
 
