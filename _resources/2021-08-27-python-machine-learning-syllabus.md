@@ -24,12 +24,12 @@ We will be using Udemy as our learning materials:
 # Tentative Course Schedule
 ## Part 1: Python A-Z
 - Week 01 (Sep 06 - Sep 10)
-  - [ ] 1: Welcome To The Course; Core Programming Principles - 1 hr 27 min
+  - 1: [ ] Welcome To The Course; Core Programming Principles - 1 hr 27 min
     - Udemy: Section 1, 1-6; Section 2, 7-16
-    - Topics: Installing Python, variables, loop
-    - Homework 1: Law of Large Numbers
-    - Quiz 1: Core programming Principles
-  - [ ] 2: Fundamentals of Python - 1 hr 27 min
+	- Topics: Installing Python, variables, loop
+	- Homework 1: Law of Large Numbers
+	- Quiz 1: Core programming Principles
+  - 2: Fundamentals of Python - 1 hr 27 min
     - Udemy: Section 7, 66; Section 3, 17-27
     - Topics: Homework 1 solution; Lists, functions, packages, arrays
     - Homework 2: Financial Statement Analysis
