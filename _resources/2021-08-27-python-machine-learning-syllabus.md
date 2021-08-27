@@ -24,7 +24,7 @@ We will be using Udemy as our learning materials:
 # Tentative Course Schedule
 ## Part 1: Python A-Z
 - Week 01 (Sep 06 - Sep 10)
-  - 1: [ ] Welcome To The Course; Core Programming Principles - 1 hr 27 min
+  - 1: Welcome To The Course; Core Programming Principles - 1 hr 27 min
     - Udemy: Section 1, 1-6; Section 2, 7-16
 	- Topics: Installing Python, variables, loop
 	- Homework 1: Law of Large Numbers
@@ -35,48 +35,44 @@ We will be using Udemy as our learning materials:
     - Homework 2: Financial Statement Analysis
     - Quiz 2: Fundamentals of Python
 - Week 02 (Sep 13 - Sep 17)
-  - [] 3: Matrices 1/2 - 1 hr 38 min
+  - 3: Matrices 1/2 - 1 hr 38 min
     - Udemy: Section 7, 67-68; Section 4, 28-34
-    - Topics: Homework 2 solution; Matrices, dictionaries, visualization
-  - [] 4: Matrices 2/2; Data Frames 1/2 - 1 hr 35 min
+	- Topics: Homework 2 solution; Matrices, dictionaries, visualization
+  - 4: Matrices 2/2; Data Frames 1/2 - 1 hr 35 min
     - Udemy: Section 4, 35-39; Section 5, 40-44
-    - Topics: Creating functions, import data, rename, subset, operations
-    - Homework 3: Basketball free throws
-    - Quiz 3: Matrices
+	- Topics: Creating functions, import data, rename, subset, operations
+	- Homework 3: Basketball free throws
+	- Quiz 3: Matrices
 - Week 03 (Sep 20 - Sep 24)
-  - [] 5: Data Frames 2/2 - 1 hr 29 min
+  - 5: Data Frames 2/2 - 1 hr 29 min
     - Udemy: Section 7, 69; Section 5, 45-51
-    - Topics: Homework 3 solution; Filter, Seaborn, keyword arguments
-    - Homework 4: World Trends
-    - Quiz 4: Data frames
-  - [] 6: Advanced Visualization 1/2, 1 hr 46 min
+	- Topics: Homework 3 solution; Filter, Seaborn, keyword arguments
+	- Homework 4: World Trends
+	- Quiz 4: Data frames
+  - 6: Advanced Visualization 1/2, 1 hr 46 min
     - Udemy: Section 7, 70-71; Section 6, 52-58
-    - Topics: Homework 4 solution; Category data, JointPlots, common plots
+	- Topics: Homework 4 solution; Category data, JointPlots, common plots
 - Week 04 (Sep 27 - Oct 01)	
-  - [] 7: Advanced Visualization 2/2, 1 hr 52 min
+  - 7: Advanced Visualization 2/2, 1 hr 52 min
     - Udemy: Section 6, 59-65; Section 7, 72-74; Section 8, 75
-    - Topics: Facet grid, build dashboards, Homework 5 solution, bonus lectures
-    - Homework 5: Movie Domestic % Gross
-    - Quiz 5: Advanced Visualization
+	- Topics: Facet grid, build dashboards, Homework 5 solution, bonus lectures
+	- Homework 5: Movie Domestic % Gross
+	- Quiz 5: Advanced Visualization
 	
 {% comment %}	
-### Part 2: Machine Learning A-Z	
-  - [] N: XXXXXX, 1 hr xx min
-    - Udemy: Section X
-    - Topics: 
-	- Homework: 
-	- Quiz X: 
-	
-	
+### Part 2: Machine Learning A-Z
+  - N: XXXX, 1 hr XX min
+    - Udemy: Section X, 
+	- Topics: XXX
+	- Homework X: XXX
+	- Quiz X: XX
 
-	
 
-	
-  - [] N: XXXXXX, 1 hr xx min
-    - Udemy: Section X
-    - Topics: 
-	- Homework: 
-	- Quiz X: 
+  - N: XXXX, 1 hr XX min
+    - Udemy: Section X, 
+	- Topics: XXX
+	- Homework X: XXX
+	- Quiz X: XX
 
 
 
