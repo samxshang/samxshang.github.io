@@ -58,13 +58,20 @@ We will be using Udemy as our learning materials:
 	- Topics: Facet grid, build dashboards, Homework 5 solution, bonus lectures
 	- Homework 5: Movie Domestic % Gross
 	- Quiz 5: Advanced Visualization
+
+		
 ## Course 2: Machine Learning A-Z
+
 - Week 04 (Sep 27 - Oct 01)
   - 1: **Welcome to the course!** - 42 min
     - Udemy: Section 1, 1-14
 	- Topics: Intro, resources, data, code
 - Week 05 (Oct 04 - Oct 08)
-  - 2: **Part 1: Data Preprocessing** - 2 hr 17 min
+  - 2: **Data Preprocessing** - 2 hr 17 min
+    - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
+	- Topics: Data preprocessing in Python and R
+	
+  - 3: **Part 2: Data Preprocessing** - 2 hr 17 min
     - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
 	- Topics: Data preprocessing in Python and R
 
@@ -72,19 +79,6 @@ We will be using Udemy as our learning materials:
 
 	
 {% comment %}	
-
-
-
-  - N: XXXX - 1 hr XX min
-    - Udemy: Section X, 
-	- Topics: XXX
-	- Homework X: XXX
-	- Quiz X: XX
-
-
-
-
-
 
 
 
