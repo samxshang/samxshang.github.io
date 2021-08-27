@@ -59,9 +59,7 @@ We will be using Udemy as our learning materials:
 	- Homework 5: Movie Domestic % Gross
 	- Quiz 5: Advanced Visualization
 
-		
 ## Course 2: Machine Learning A-Z
-
 - Week 04 (Sep 27 - Oct 01)
   - 1: **Welcome to the course!** - 42 min
     - Udemy: Section 1, 1-14
@@ -70,7 +68,6 @@ We will be using Udemy as our learning materials:
   - 2: **Data Preprocessing** - 2 hr 17 min
     - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
 	- Topics: Data preprocessing in Python and R
-	
   - 3: **Part 2: Data Preprocessing** - 2 hr 17 min
     - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
 	- Topics: Data preprocessing in Python and R
