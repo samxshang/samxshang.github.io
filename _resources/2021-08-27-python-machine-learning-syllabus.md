@@ -67,41 +67,76 @@ We will be using Udemy as our learning materials:
 - Week 05 (Oct 04 - Oct 08)
   - 2: **Data Preprocessing** - 2 hr 17 min
     - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
-	- Topics: Data preprocessing in Python and R
-  - 3: **Part 2: Data Preprocessing** - 2 hr 17 min
-    - Udemy: Section 2, 15; Section 3, 16-24; Section 4, 25-34
-	- Topics: Data preprocessing in Python and R
-
-
-
-	
-{% comment %}	
-
-
-
-
+  - 3: **Simple Linear Regression**; **Multiple Linear Regression 1/2** - 2 hr 02 min
+    - Udemy: Section 5, 35; Section 6, 36-47; Section 7, 48-54
+	- Quiz 1: Simple Linear Regression
 - Week 06 (Oct 11 - Oct 15)
-
+  - 4: **Multiple Linear Regression 2/2** - 1 hr 35 min
+    - Udemy: Section 7, 55-67
+	- Quiz 2: Multiple Linear Regression
+  - 5: **Polynomial Regression** - 1 hr 52 min
+    - Udemy: Section 8, 68-78
 - Week 07 (Oct 18 - Oct 22)
-
+  - 6: **Support Vector Regression (SVR)** - 1 hr 19 min
+    - Udemy: Section 9, 79-87
+  - 7: **Decision Tree Regression**; **Random Forest Regression** - 1 hr 36 min
+    - Udemy: Section 10, 88-94; Section 11, 95-98
 - Week 08 (Oct 25 - Oct 29)
-
+  - 8: **Evaluating Regression Models Performance**; **Regression Model Selection in Python and R** - 1 hr 4 min
+    - Udemy: Section 12, 99-100; Section 13, 101-104; Section 14, 105-107
+  - 9: **Logistic Regression** - 2 hr 11 min
+    - Udemy: Section 15, 108; Section 16, 109-126
+	- Quiz 3: Logistic Regression
 - Week 09 (Nov 01 - Nov 05)
-
+  - 10: **K-Nearest Neighbors (K-NN)**; **Support Vector Machine (SVM)** - 1 hr 18 min
+    - Udemy: Section 17, 127-130; Section 18, 131-134
+	- Quiz 4: K-Nearest Neighbor
+  - 11: **Kernel SVM**; **Naive Bayes 1/2** - 1 hr 58 min
+    - Udemy: Section 19, 135-142; Section 20, 143-146
 - Week 10 (Nov 08 - Nov 12)
-
+  - 12: **Naive Bayes 2/2**; **Decision Tree Classification**; **Random Forest Classification** - 1 hr 50 min
+    - Udemy: Section 20, 147-149; Section 21, 150-153; Section 22, 154-157
+  - 13: **Classification Model Selection**; **Evaluating Classification Models Performance**; **K-Means Clustering 1/2** - 1 hr 33 min
+    - Udemy: Section 23, 158-159; Section 24, 160-165; Section 25, 166; Section 26, 167-169
 - Week 11 (Nov 15 - Nov 19)
-
+  - 14: **K-Means Clustering 2/2**; **Hierarchical Clustering 1/2** - 1 hr 44 min
+    - Udemy: Section 26, 170-176; Section 27, 177-179
+	- Quiz 5: K-Means Clustering
+  - 15: **Hierarchical Clustering 2/2**; **Apriori 1/2** - 2 hr 12 min
+    - Udemy: Section 27, 180-189; Section 28, 190; Section 29, 191-196
+	- Quiz 6: Hierarchical Clustering
 - Week 12 (Nov 22 - Nov 26)
-
+  - 16: **Apriori 2/2**; **Eclat** - 1 hr 22 min
+    - Udemy: Section 29, 197-199; Section 30, 200-203
+  - 17: **Upper Confidence Bound (UCB) 1/2** - 1 hr 33 min
+    - Udemy: Section 31, 204; Section 32, 205-214
 - Week 13 (Nov 29 - Dec 03)
-
+  - 18: **Upper Confidence Bound (UCB) 2/2**; **Thompson Sampling 1/2** - 1 hr 58 min
+    - Udemy: Section 32, 215-218; Section 33, 219-226
+  - 19: **Thompson Sampling 2/2**; **Natural Language Processing 1/2** - 2 hr 5 min
+    - Udemy: Section 33, 227-228; Section 34, 229-241
 - Week 14 (Dec 06 - Dec 10)
-
-- Week 15 (Dec 13 - Dec 17)
-
+  - 20: **Natural Language Processing 2/2** - 1 hr 24 min
+    - Udemy: Section 34, 242-253
+  - 21: **Deep Learning**; **Artificial Neural Networks 1/2** - 1 hr 35 min
+    - Udemy: Section 35, 254-255; Section 36, 256-264
+- Week 15 (Dec 13 - Dec 17)	
+  - 22: **Artificial Neural Networks 2/2** - 2 hr 3 min
+    - Udemy: Section 36, 265-276
+  - 23: **Convolutional Neural Networks 1/2** - 1 hr 41 min
+    - Udemy: Section 37, 277-285
 - Week 16 (Dec 20 - Dec 24)
-
+  - 24: **Convolutional Neural Networks 2/2** - 1 hr 26 min
+    - Udemy: Section 37, 286-293
+  - 25: **Principle Component Analysis (PCA)**; **Linear Discriminant Analysis (LDA)** - 1 hr 44 min
+    - Udemy: Section 38, 294; Section 39, 295-301; Section 40, 302-305
 - Week 17 (Dec 27 - Dec 31)
+  - 26: **Kernel PCA**; **Model Selection** - 1 hr 47 min
+    - Udemy: Section 41, 306-308; Section 42, 309; Section 43, 310-314
+  - 27: **XGBoost** - 39 min
+    - Udemy: Section 44, 315-319; Section 45, 320
+
+
+{% comment %}	
 
 {% endcomment %}
