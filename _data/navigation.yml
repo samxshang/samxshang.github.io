@@ -47,6 +47,3 @@ resources:
     children:
       - title: "Pre-PHD BINGO Game"
         url: /resources/pre-phd-bingo-game-eng/
-        children:
-          - title: "placeholder"
-          url: /resources/pre-phd-bingo-game-eng/
