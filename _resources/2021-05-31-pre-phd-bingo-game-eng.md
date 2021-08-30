@@ -12,7 +12,7 @@ Twenty-five things I have done to help me prepare for my PhD program.
 
 <!--more-->
 
-![pre-phd-bingo-sheet](https://raw.githubusercontent.com/samxshang/sharing_lib/main/pre_phd/bingo%20sheet_0522.png)
+<img src="https://raw.githubusercontent.com/samxshang/sharing_lib/main/pre_phd/bingo%20sheet_0522.png" alt="pre-phd-bingo-sheet" width="700"/>
 - [BINGO card credit list](https://github.com/samxshang/sharing_lib/blob/main/pre_phd/credits.md)
 
 ![pre-phd-instruction](https://raw.githubusercontent.com/samxshang/sharing_lib/main/pre_phd/bingo_instru.png)
