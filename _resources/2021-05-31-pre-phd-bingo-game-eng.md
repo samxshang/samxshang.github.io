@@ -6,6 +6,8 @@ categories:
   - resource
 tags:
   - academia
+toc: true
+toc_sticky: true
 ---
 
 Twenty-five things I have done to help me prepare for my PhD program.
@@ -100,6 +102,14 @@ Twenty-five things I have done to help me prepare for my PhD program.
 
 1. Day 25: Make a 3-year/4-year/5-year PhD plan
     - Youtube: [How I Planned my PhD / 4 Year GANTT Chart in A4 Bullet Journal and Power Point / Digital Download](https://youtu.be/I8UxsETqIMo)
+
+# Other resources
+- Youtube: [Dear first year phd student / A Letter To You](https://youtu.be/Q8Fym9UiOTE) by Dr Amina Yonis
+- Youtube: [First year phd student advice - 20 Things to do Early in Your PhD](https://youtu.be/JNR08AQykXE) by PhD and Productivity
+- Youtube: [How to fail a PhD / 5 key things to avoid!](https://youtu.be/Uclo52y8Uyo) by Andy Stapleton
+- Youtube: [PhD FIRST YEAR TIPS / 16 things to do](https://youtu.be/_wQ_vFp9oV0) by Maria B
+- Youtube: [Advice for New PhD Students / How to Succeed in Graduate School!](https://youtu.be/Hh5b5wZzgBA) by Casey Fiesler
+- Youtube: [Before a phd - 5 secrets for starting strong](https://youtu.be/sdp3WeJi-5Q) by Andy Stapleton
 
 {% comment %}
 
