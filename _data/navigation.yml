@@ -45,5 +45,8 @@ resources:
         url: /resources/my-website/
   - title: "Academic life"
     children:
-      - title: "placeholder"
-        url: https://samxshang.github.io
+      - title: "Pre-PHD BINGO Game"
+        url: /resources/pre-phd-bingo-game-eng/
+        children:
+          - title: "placeholder"
+          url: /resources/pre-phd-bingo-game-eng/
