@@ -99,8 +99,8 @@ Twenty-five things I have done to help me prepare for my PhD program.
 # Finale (1)
 
 1. Day 25: Make a 3-year/4-year/5-year PhD plan
-    - Youtube: [How I Planned my PhD / 4 Year GANTT Chart in A4 Bullet Journal and Power Point / Digital Download 10](https://youtu.be/I8UxsETqIMo)
+    - Youtube: [How I Planned my PhD / 4 Year GANTT Chart in A4 Bullet Journal and Power Point / Digital Download](https://youtu.be/I8UxsETqIMo)
 
-{% comment %}	
+{% comment %}
 
 {% endcomment %}
