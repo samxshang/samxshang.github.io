@@ -31,7 +31,8 @@ I'm currently researching cross-cultural judgment and decision making with [Dr. 
 
 <br>
 Select publications:
-[Petrocelli, J. V., Silverman, H. E., & **Shang, X. S**. (2021). Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis. *Current Psychology.*](https://doi.org/10.1007/s12144-021-02243-z)
+
+Petrocelli, J. V., Silverman, H. E., & **Shang, X. S**. (2021). [Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis](https://doi.org/10.1007/s12144-021-02243-z). *Current Psychology.*
 
 
 Select talk presentations:
