@@ -7,6 +7,9 @@ permalink: /teaching/
 ### Undergraduate level courses at Queen's University:
 *Duties*: Teaching labs, grading assignments, maintaining online learning management system (OnQ), holding office hours
 
+- Social Psychology (PSYC241)
+  - Instructor: Dr. David Hauser, Winter 2022
+
 - Laboratory in Social Psychology (PSYC341)
   - Instructor: Dr. Li-Jun Ji, Fall 2021
   

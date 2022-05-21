@@ -26,13 +26,14 @@ poster_gallery:
 ---
 
 I'm currently researching cross-cultural judgment and decision making with [Dr. Li-Jun Ji](https://www.queensu.ca/psychology/culture-and-cognition-lab/research-team) at Queen's University. Broadly, my research interests fall within the area of social cognitive psychology, including:
-1. Judgment and decision making, communication strategy, misinformation, and false memory
-2. Intergroup interaction, group identity and polarization, cross-cultural comparison of perception and communication, and the effects of stereotypes
+1. Cross-cultural judgment and decision making
+2. Cross-cultural comparison of communication strategies
+3. AI perception
 
 <br>
 Select publications:
 
-Petrocelli, J. V., Silverman, H. E., & **Shang, X. S**. (2021). [Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis](https://doi.org/10.1007/s12144-021-02243-z). *Current Psychology.*
+Petrocelli, J. V., Silverman, H. E., & **Shang, X. S**. (in press). [Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis](https://doi.org/10.1007/s12144-021-02243-z). *Current Psychology.*
 
 
 Select talk presentations:

@@ -17,7 +17,10 @@ I am constantly seeking to learn more about methods and stats. Below is a list o
 <br>
 
 My methods and statistical training in school:
-- Graduate level (WFU)
+- PhD level (Queen's)
+	- Methods in Social Psychology
+	- Multilevel Modeling
+- Master's level (WFU)
   - Research Design and Analysis I & II
   - Introduction to Psychometrics and R
 - Undergraduate level (JLU & ECNU)

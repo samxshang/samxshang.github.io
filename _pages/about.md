@@ -6,7 +6,7 @@ permalink: /about/
 Hi visitor! Welcome to my website.
 
 ## Research
-I am a Social Cognitive Psychology researcher. I am an incoming PhD student at the [Culture and Cognition lab](https://www.queensu.ca/psychology/culture-and-cognition-lab/research-team) at Queen's University. I earned my B.S. in Applied Psychology from Jilin University in China and my [master's in Psychology](https://psychology.wfu.edu/graduate-program/) from Wake Forest University in the U.S.
+I am a Social Cognitive Psychology researcher. I am a PhD student at the [Culture and Cognition lab](https://www.queensu.ca/psychology/culture-and-cognition-lab/research-team) at Queen's University. I earned my B.S. in Applied Psychology from Jilin University in China and my [master's in Psychology](https://psychology.wfu.edu/graduate-program/) from Wake Forest University in the U.S.
 
 I'm interested in cultural differences and similarities in perception, communication, and JDM. I am also enthusiastic about R, stats, and cross-cultural measurement.
 
