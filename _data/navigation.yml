@@ -39,6 +39,8 @@ resources:
     children:
       - title: "My methods and statistical training"
         url: /resources/my-method-stats-training/
+      - title: "Python and Machine Learning Syllabus"
+        url: /resources/python-machine-learning-syllabus/
   - title: "Web building"
     children:
       - title: "How I built my website"
