@@ -11,7 +11,7 @@ permalink: /teaching/
   - Instructor: Dr. David Hauser, Winter 2022
 
 - Laboratory in Social Psychology (PSYC341)
-  - Instructor: Dr. Li-Jun Ji, Fall 2021
+  - Instructor: Dr. Li-Jun Ji, Fall 2021, Fall 2022
   
 ### Undergraduate level courses at Wake Forest University:
 *Duties*: Grading exams and assignments, updating a course blog, maintaining online learning management system (Sakai), reviewing and proctoring exams, holding office hours

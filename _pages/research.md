@@ -33,7 +33,10 @@ I'm currently researching cross-cultural judgment and decision making with [Dr. 
 <br>
 Select publications:
 
-Petrocelli, J. V., Silverman, H. E., & **Shang, X. S**. (in press). [Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis](https://doi.org/10.1007/s12144-021-02243-z). *Current Psychology.*
+Ji, L. J., Yap, S., Khei, Z. A. M., Wang, X., Chang, B., **Shang, S. X**, & Cai, H. (2022). [Meaning in
+stressful experiences and coping across cultures](https://journals.sagepub.com/doi/full/10.1177/00220221221109552). *Journal of Cross-Cultural Psychology*, *53*, 1015-1032.
+
+Petrocelli, J. V., Silverman, H. E., & **Shang, S. X**. (2021). [Social perception and influence of lies vs. bullshit: A test of the insidious bullshit hypothesis](https://doi.org/10.1007/s12144-021-02243-z). *Current Psychology.*
 
 
 Select talk presentations:
